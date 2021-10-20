@@ -1,4 +1,4 @@
-# Decimal-Convetor-and-Interest-Calculator
+# Arnav-Prabhale.Decimal-Convetor-and-Interest-Calculator
 1. Conveters Decimal Numbers to 
                                 Binary 
                                 Octal 
